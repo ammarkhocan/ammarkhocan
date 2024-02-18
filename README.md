@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 💫 About Me:
+# About Me:
 🌱 I'm currently learning HTML, CSS and JavaScript web development.<br>
 
 
