@@ -8,7 +8,10 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning React<br>👨‍💻 All of my projects are available at (comingsoon)</p>
+<p align="left">
+🌱 I’m currently learning React<br>
+👨‍💻 All of my projects are available at <a href="https://ammarismail.com" target="_blank">ammarismail.com</a>
+</p>
 
 ###
 
